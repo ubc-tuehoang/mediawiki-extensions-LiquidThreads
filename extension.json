@@ -1,6 +1,6 @@
 {
 	"name": "Liquid Threads",
-	"version": "2.3-alpha",
+	"version": "2.3-alpha-1.41.0-wmf.29",
 	"author": [
 		"David McCabe",
 		"Andrew Garrett"
@@ -10,7 +10,7 @@
 	"type": "other",
 	"license-name": "GPL-2.0-or-later",
 	"requires": {
-		"MediaWiki": ">= 1.41"
+		"MediaWiki": ">= 1.39"
 	},
 	"namespaces": [
 		{
